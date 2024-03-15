@@ -1,4 +1,5 @@
 Netflix Analysis Project:
+
 Overview:
 This repository contains the code and findings from an analysis of Netflix content. The analysis covers various aspects such as distribution of content ratings, top directors, sentiment analysis of content, trend analysis, user behavior, and distribution of content types.
 
